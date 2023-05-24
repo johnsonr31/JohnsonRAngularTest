@@ -1,0 +1,35 @@
+.card {
+    width: 500px;
+    margin: auto;
+}
+
+.cat-facts{
+    height: 90px;
+}
+
+.get-facts-btn {
+    display: flex;
+    background-color: #04645c;
+    color: #FFFFFF;
+    border: none;
+    border-radius: 0.5em;
+    padding: 10px 12px;
+    text-align: center;
+    text-decoration: none;
+    justify-content: center;
+    transition: ease-in-out 150ms;
+}
+
+.get-facts-btn:hover {
+    display: flex;
+    background-color: #087b72;
+    color: #FFFFFF;
+    border: none;
+    border-radius: 0.5em;
+    padding: 10px 12px;
+    text-align: center;
+    text-decoration: none;
+    justify-content: center;
+    cursor: pointer;
+    transition: ease-in-out 150ms;
+}
